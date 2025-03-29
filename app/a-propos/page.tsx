@@ -74,7 +74,7 @@ export default function AboutPage() {
             <div className="grid md:grid-cols-3 gap-8">
               <ValueCard
                 title="Innovation"
-                description="Nous repoussons constamment les limites de la créativité et de la technologie pour créer des espaces uniques et avant-gardistes."
+                description="Adam BREOWN repoussons constamment les limites de la créativité et de la technologie pour créer des espaces uniques et avant-gardistes."
               />
               <ValueCard
                 title="Durabilité"
